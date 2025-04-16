@@ -1,0 +1,3 @@
+Hi internet,
+Im trying to create AI agents using the Agentic frameworks to check out the generative AI possibilities.
+Each Agent has its own readme file inside its folder. Happy day. Toodles...
