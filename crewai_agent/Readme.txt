@@ -3,5 +3,4 @@ To run this:
 2) activate the myenv environment
 3) run in terminal : pip install -r requirement.txt
 4) run in terminal python crew.py
-5) Go to phidata website: login and go to playgroung
-6) select an endpoint and select endpoint as 7777
+
